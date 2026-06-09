@@ -1,0 +1,2 @@
+# pixelLatente
+Instalación interactiva
